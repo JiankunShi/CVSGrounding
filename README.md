@@ -7,7 +7,7 @@ Official implementation of
 This repository contains the official PyTorch implementation of CVSGrounding, an image-point cloud joint framework for 3D visual grounding.
 
 ## Status
-- [ ] Code release
+- [x] Code release
 - [ ] Training scripts
 - [ ] Evaluation scripts
 - [ ] Pretrained models
